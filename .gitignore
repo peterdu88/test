@@ -1,0 +1,10 @@
+/vendor
+/bower_components
+/node_modules
+.env
+_ide_helper.php
+/.idea
+AdminLTE-2.2.0
+/*.zip
+almasaeed2010-AdminLTE-v2.2.0-0-ga6c2500
+/Backup
